@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item android:title="Home"
+    android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home1"/>
+
+    <item android:title="Refer"
+        android:icon="@drawable/baseline_menu_24"
+        android:id="@+id/refer"/>
+
+    <item android:title="All Task"
+        android:icon="@drawable/baseline_task_24"
+        android:id="@+id/allTask"
+        />
+
+    <item android:title="Earn"
+        android:icon="@drawable/baseline_menu_24"
+        android:id="@+id/Earn"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_menu_24"
+        android:id="@+id/profile"/>
+    </group>
+</menu>
